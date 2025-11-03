@@ -52,7 +52,8 @@ To design and build a **professional personal portfolio website** that showcases
 
 
 **##Screenshorts**
-![image alt](!)
+**HOME**
+![image alt](https://github.com/udaykumarganji/portfolio/blob/34a9a649901b9de7e6ff8c51c3a0ba6367e44886/1st%20screen.png)
 ![image alt](!)
 ![image alt](!)
 ![image alt](!)
