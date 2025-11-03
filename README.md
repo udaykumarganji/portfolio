@@ -57,9 +57,11 @@ To design and build a **professional personal portfolio website** that showcases
 
 **##ABOUT**
 ![image alt](https://github.com/udaykumarganji/portfolio/blob/2ee47ff9882f5e1fdf833e20be79e167743d8fec/2nd%20screen.png)
+**##bobbies**
+![image alt](https://github.com/udaykumarganji/portfolio/blob/9f95c9afe3320660fdda07e2750381e21dcef3b9/3rd%20screen.png)
 
 ![image alt](!)
-![image alt](!)
+
 ![image alt](!)
 
 - 📬 **LinkedIn:** [https://www.linkedin.com/in/udaykumarganji](https://www.linkedin.com/in/udaykumarganji)
