@@ -52,15 +52,21 @@ To design and build a **professional personal portfolio website** that showcases
 
 
 **##Screenshorts**
+---------
 **##HOME**
 ![image alt](https://github.com/udaykumarganji/portfolio/blob/34a9a649901b9de7e6ff8c51c3a0ba6367e44886/1st%20screen.png)
 
+
 **##ABOUT**
 ![image alt](https://github.com/udaykumarganji/portfolio/blob/2ee47ff9882f5e1fdf833e20be79e167743d8fec/2nd%20screen.png)
-**##bobbies**
+
+
+**##Hobbies**
 ![image alt](https://github.com/udaykumarganji/portfolio/blob/9f95c9afe3320660fdda07e2750381e21dcef3b9/3rd%20screen.png)
 
-![image alt](!)
+
+**##Projects**
+![image alt](https://github.com/udaykumarganji/portfolio/blob/28da725d86241defe97e736adae79dae225ca87a/4th%20screen.png)
 
 ![image alt](!)
 
